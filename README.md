@@ -39,9 +39,9 @@ public/: Diretório contendo arquivos estáticos.
 
 # Tecnologias Utilizadas
 
-Typescript
-Next.js
-React
+Typescript,
+Next.js,
+React,
 React Query
 
 Ps: Escrita do código na lingua inglesa para facilitar a escalabilidade de venda da API 
