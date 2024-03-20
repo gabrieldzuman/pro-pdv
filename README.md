@@ -2,25 +2,15 @@
 
 Este é um aplicativo de ponto de venda (PDV) simples desenvolvido com Next.js que permite aos usuários visualizar produtos, adicionar produtos ao carrinho e realizar o checkout. O aplicativo consome a Fake Store API para obter informações sobre produtos e categorias.
 
-Conteúdo:
-Como Rodar o Projeto
-Pré-requisitos
-Clonar o Repositório
-Instalar as Dependências
-Rodar o Servidor de Desenvolvimento
-Acessar o PDV
-Estrutura do Projeto
-Tecnologias Utilizadas
-Contribuindo
-Licença
-Como Rodar o Projeto
+
+# Como Rodar o Projeto
 
 Pré-requisitos
 Antes de começar, certifique-se de ter o Node.js e o npm instalados em seu computador.
 
 Clonar o Repositório
 Clone este repositório do GitHub para o seu computador usando o seguinte comando:
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/gabrieldzuman/pro-pdv.git
 
 Instalar as Dependências
 Navegue até o diretório do projeto e execute o seguinte comando para instalar as dependências:
@@ -39,13 +29,16 @@ Credenciais de Usuário Padrão
 Usuário: admin
 Senha: 12345678
 
-Estrutura do Projeto:
+
+# Estrutura do Projeto
 O projeto segue a seguinte estrutura de diretórios:
 pages/: Diretório contendo as páginas do Next.js.
 components/: Diretório contendo os componentes React.
 public/: Diretório contendo arquivos estáticos.
 
-Tecnologias Utilizadas:
+
+# Tecnologias Utilizadas
+
 Typescript
 Next.js
 React
