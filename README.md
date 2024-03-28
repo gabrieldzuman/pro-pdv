@@ -1,4 +1,4 @@
-# Point of Sale (PDV) App - Desenvolvido por Gabriel Dzuman
+# Ponto de Venda (PDV) App - Desenvolvido por Gabriel Dzuman
 
 Este é um aplicativo de ponto de venda (PDV) simples desenvolvido com Next.js que permite aos usuários visualizar produtos, adicionar produtos ao carrinho e realizar o checkout. O aplicativo consome a Fake Store API para obter informações sobre produtos e categorias.
 
@@ -6,7 +6,12 @@ Este é um aplicativo de ponto de venda (PDV) simples desenvolvido com Next.js q
 # Como Rodar o Projeto
 
 Pré-requisitos
-Antes de começar, certifique-se de ter o Node.js e o npm instalados em seu computador.
+Antes de começar, certifique-se de ter instalado em sua máquina:
+
+Node.js (versão 14 ou superior)
+npm (Node Package Manager) 
+Git 
+(Demais dependências e versões disponível no arquivo package.json)
 
 Clonar o Repositório
 Clone este repositório do GitHub para o seu computador usando o seguinte comando:
@@ -39,9 +44,10 @@ public/: Diretório contendo arquivos estáticos.
 
 # Tecnologias Utilizadas
 
-Typescript,
-Next.js,
-React,
-React Query
+Node.js
+React
+Next.js
+JSON Web Tokens (JWT)
+styled-components
+TypeScript
 
-Ps: Escrita do código na lingua inglesa para facilitar a escalabilidade de venda da API 
